@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gibberish (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gibberish
